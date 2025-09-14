@@ -1,0 +1,20 @@
+{
+  "name": "dress-website",
+  "version": "1.0.0",
+  "description": "A stylish dress website showcasing various dress collections.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "dress",
+    "fashion",
+    "ecommerce"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
